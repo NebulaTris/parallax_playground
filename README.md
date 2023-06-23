@@ -1,4 +1,4 @@
-# Parallax_Effect
+# Parallax Playground
 
 - **Product 1 Demo**  <br>
 
