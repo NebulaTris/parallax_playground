@@ -1,6 +1,5 @@
 # Parallax_Effect
 
-Product Demo
+- **Product 1 Demo**  <br>
 
-https://github.com/NebulaTris/parallax_effect/assets/94922914/4ec4bf91-0e27-47fc-bd8e-05df0928f976
-
+<img src="https://github.com/NebulaTris/parallax_effect/assets/94922914/febd44b6-ffa3-44d0-88ab-f8245bd68a56" width="800">
