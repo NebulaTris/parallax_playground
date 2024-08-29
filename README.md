@@ -4,6 +4,12 @@ A  repository that showcases a collection of  parallax effects created using HTM
 
 ## Product 1 Demo
 
-<img src="https://github.com/NebulaTris/parallax_playground/assets/94922914/0f382184-23f4-4e6b-9c57-a7ec46acb985" width="800" ><br>
+<img src="assets/prod1.gif" width="800" ><br>
 
 **Made using : https://www.youtube.com/watch?v=1wfeqDyMUx4**<br>
+
+## Product 2 Demo
+
+<img src="assets/prod2.gif" width="800" ><br> 
+
+**Made using : https://www.youtube.com/watch?v=TUD9999TbS0**<br>
