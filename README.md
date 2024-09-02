@@ -25,3 +25,9 @@ A  repository that showcases a collection of  parallax effects created using HTM
 <img src="assets/prod4.gif" width="800" ><br> 
 
 **Made using : https://www.youtube.com/watch?v=VB1U1yV3vl4**<br>
+
+## Product 5 Demo
+
+<img src="assets/prod5.gif" width="800" ><br> 
+
+**Made using : https://www.youtube.com/watch?v=k9LyMwSq5jM**<br>
